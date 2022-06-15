@@ -8,11 +8,11 @@ Here are some facts:
 - 🌱 I’m currently learning linux on my private time to get more into tech and IT
 - 🐶 I have a dog named Toby (with a Y)
 - 🎵 I like hoarding musical instruments, including:
- * 4 guitars
- * 2 melodicas
- * 1 accordian
- * Misc. flutes
- * An otamatone
+  * 4 guitars
+  * 2 melodicas
+  * 1 accordian
+  * Misc. flutes
+  * An otamatone
 - ✉️ You can alwasy reach be my slacking me @maxi
 - 😄 Pronouns: He/Him
 - ⚡ Misc. fact: I have only half of my colon
