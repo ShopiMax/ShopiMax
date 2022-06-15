@@ -13,7 +13,11 @@ Here are some facts:
   * 1 accordian
   * Misc. flutes
   * An otamatone
+- I love building keyboards and I currently have built:
+  * [Keychron Q1](https://www.keychron.com/products/keychron-q1) for work
+  * [BM60](https://kprepublic.com/products/bm60-rgb-60-gh60-hot-swappable-pcb-programmed-qmk-firmware-type-c?_pos=1&_sid=1926a0771&_ss=r&variant=31629690667101) for fun
+  * [Keebio Iris](https://keeb.io/collections/iris-split-ergonomic-keyboard) for ergonomic typing on my gaming desk
 - ✉️ You can alwasy reach be my slacking me @maxi
 - 😄 Pronouns: He/Him
 - ⚡ Misc. fact: I have only half of my colon
--->
+
